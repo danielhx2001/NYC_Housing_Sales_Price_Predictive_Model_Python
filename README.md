@@ -18,14 +18,15 @@ The goal of the project is to clean the dataset, create visualizations to presen
 
 <h2>📊 Dataset</h2>
 <p>
-Source: U.S. Department of Education – College Scorecard<br>
-Academic Year: 2018–2019<br>
+Source: NYC Citywide Rolling Sales dataset + PLUTO building dataset<br>
+Link: https://www.kaggle.com/datasets/ishank2005/nyc-housing-prices-csv/data<br>
+Dataset Overview: This dataset contains property sales transactions across the five NYC boroughs, combining transaction records with building and lot characteristics for predictive modeling and exploratory analysis.<br>
 Key Variables:
 <ul>
-  <li>Institutional characteristics (ownership/control, degree offerings, enrollment size)</li>
-  <li>Admissions selectivity (admission rate)</li>
-  <li>Cost of attendance (public/private cost measures)</li>
-  <li>Student outcomes:<br><ul><li>Retention Rate</li><li>Graduation Rate</li><li>Retention Rate</li><li>Employment outcomes one year after graduation</li></ul></li>
+  <li>Sale Price (<code>sale_price</code>)</li>
+  <li>Location (<code>borough_x</code>, <code>zip_code</code>, <code>latitude</code>, <code>longitude</code>)</li>
+  <li>Building Characteristics (<code>yearbuilt</code>, <code>building_age</code>, <code>bldgarea</code>, <code>lotarea</code>)</li>
+  <li>Property Type & Land Use (<code>landuse</code>, <code>bldgclass</code>)</li>
 </ul>
 </p>
   

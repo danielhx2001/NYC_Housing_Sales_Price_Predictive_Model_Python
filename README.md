@@ -29,6 +29,20 @@ Key Variables:
   <li>Property Type & Land Use (<code>landuse</code>, <code>bldgclass</code>)</li>
 </ul>
 </p>
+
+<h2>🛠️ Project Methods</h2>
+<p>
+Tools: Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)<br>
+Key Methods:
+<ul>
+  <li>Cleaned and prepared NYC housing sales data (missing values, duplicates, and data type fixes)</li>
+  <li>Applied log transformation to <code>sale_price</code> to reduce skewness and improve model performance</li>
+  <li>Encoded categorical variables (borough and land use) using one-hot encoding for machine learning models</li>
+  <li>Performed exploratory data analysis (EDA) using distribution plots and correlation heatmaps</li>
+  <li>Built and evaluated regression models (Linear Regression, Random Forest, Gradient Boosting) using R², RMSE, and MAE</li>
+  <li>Generated feature importance outputs to identify key drivers of NYC housing prices</li>
+</ul>
+</p>
   
 </body>
 

@@ -43,6 +43,17 @@ Key Methods:
   <li>Generated feature importance outputs to identify key drivers of NYC housing prices</li>
 </ul>
 </p>
+
+<h2>📈 Outcomes</h2>
+<p>
+Key Results:
+<ul>
+  <li>Developed a complete end-to-end regression workflow to predict NYC housing sale prices using structured property and location features</li>
+  <li>Established a baseline Linear Regression model (R² ≈ 0.20) and demonstrated performance gains using non-linear models</li>
+  <li>Achieved improved predictive accuracy with Random Forest (R² ≈ 0.44) and Gradient Boosting (R² ≈ 0.34)</li>
+  <li>Produced a feature importance table to identify the strongest predictors of housing prices (e.g., building area, borough, land use, and building age)</li>
+</ul>
+</p>
   
 </body>
 

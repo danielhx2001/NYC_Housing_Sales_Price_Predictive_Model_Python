@@ -5,7 +5,11 @@
 <h2>📌 Project Overview</h2>
 <p>This project analyzes a combined dataset from both the NYC Citywide Rolling Sales dataset and NYC PLUTO (Primary Land Use Tax Lot Output) dataset, that includes the actual property sales prices as well as the properties' related characteristics such as lot area, building area, land use and so on.
 
-The goal of the project is to clean the dataset, create visualizations to present the relationship between variables, and eventually build an optimal machine learning model trying to predict the sales price of NYC properties based on their inherent building characteristics</p>
+The goal of the project is to clean the dataset, create visualizations to present the relationship between variables, and eventually build an optimal machine learning model trying to predict the sales price of NYC properties based on their inherent building characteristics
+
+Data Visualization on Tableau: https://public.tableau.com/app/profile/xiao.huang3780/viz/NYCHousingDataVisualization/Dashboard1?publish=yes
+
+</p>
 
 <h2>🎯 Project Goals</h2>
 <p>The main objectives of the project include:<br>
@@ -53,8 +57,9 @@ Key Results:
   <li>Achieved improved predictive accuracy with Random Forest (R² ≈ 0.44) and Gradient Boosting (R² ≈ 0.34)</li>
   <li>Produced a feature importance table to identify the strongest predictors of housing prices (e.g., building area, borough, land use, and building age)</li>
 </ul>
+
 </p>
-  
+ 
 </body>
 
 </html>

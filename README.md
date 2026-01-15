@@ -7,7 +7,11 @@
 
 The goal of the project is to clean the dataset, create visualizations to present the relationship between variables, and eventually build an optimal machine learning model trying to predict the sales price of NYC properties based on their inherent building characteristics
 
-Data Visualization on Tableau: https://public.tableau.com/app/profile/xiao.huang3780/viz/NYCHousingDataVisualization/Dashboard1?publish=yes
+There are 2 Tableau Dashboards created to visualize the outcomes of this projects:
+
+NYC Housing Sales Map: https://public.tableau.com/views/NYCHousingDataVisualization-NYCHouseSalesMap/NYCHousingSalesMarket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+NYC Housing Sales Price Heat Map by Zip Code: https://public.tableau.com/views/NYCHousingDataVisualization-NYCHousingSalesPriceByZipCode/NYCHousingSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 </p>
 
